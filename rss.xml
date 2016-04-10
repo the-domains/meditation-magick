@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Meditation Magick]]></title>
+        <description><![CDATA[Meditation Magick]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 23:39:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wix Login]]></title>
+            <description><![CDATA[<article><h1>Wix Login</h1></article>]]></description>
+            <link>http://editor.wix.com/html/editor/web/renderer/edit/3cdd6660-85e4-4bbc-a8e7-aa8870593150?metaSiteId=8065c4b6-7fe8-43a8-95ea-6397d1204621&amp;editorSessionId=56E7F58B-57DC-4A63-BC41-12AB39344D07</link>
+            <guid isPermaLink="false">408b7e08-5799-404b-b395-5086bbec941f</guid>
+            <pubDate>Sun, 10 Apr 2016 23:39:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
