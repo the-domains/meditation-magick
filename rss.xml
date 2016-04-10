@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Meditation Magick]]></title>
+        <description><![CDATA[Meditation Magick]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Apr 2016 23:13:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meditation Magick]]></title>
+            <description><![CDATA[<article><h1>Meditation Magick</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e384200-1394-4673-af3f-93d22422399f.jpg"></article>]]></description>
+            <link>undefinedmeditation-magick/index.html</link>
+            <guid isPermaLink="false">08960130-8d19-4a9c-bd58-bda15c7c84eb</guid>
+            <pubDate>Sun, 10 Apr 2016 23:12:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
