@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Meditation Magick
-datePublished: '2016-04-10T23:44:12.911Z'
-dateModified: '2016-04-10T23:44:03.739Z'
+datePublished: '2016-04-11T00:41:59.326Z'
+dateModified: '2016-04-11T00:36:51.502Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-10-meditation-magick.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-meditation-magick.md
-published: true
 url: meditation-magick/index.html
 _type: Article
 
