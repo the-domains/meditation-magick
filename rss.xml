@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Meditation Magick]]></title>
         <description><![CDATA[Meditation Magick]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/meditation-magick/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 23:44:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 00:34:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/meditation-magick/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05287be8-9cd5-4b04-a5c0-c725f1a57feb.jpg">]]></description>
+            <link>https://thegrid.ai/meditation-magick/f720f46b-1339-4d10-b9dd-d827bf26be18/index.html</link>
+            <guid isPermaLink="false">f720f46b-1339-4d10-b9dd-d827bf26be18</guid>
+            <pubDate>Mon, 11 Apr 2016 00:33:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b54685cc-5640-4b1b-8f72-56086925b94f.jpg">]]></description>
-            <link>undefinedmeditation-magick/index.html</link>
+            <link>https://thegrid.ai/meditation-magick/meditation-magick/index.html</link>
             <guid isPermaLink="false">20bb791a-0ba2-4651-b798-d1d671d9e0c6</guid>
             <pubDate>Sun, 10 Apr 2016 23:44:12 GMT</pubDate>
         </item>
